@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-Linux
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-Linux
-CND_ARTIFACT_NAME_Debug=xor_equivalenceakopf
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/xor_equivalenceakopf
+CND_ARTIFACT_NAME_Debug=absorption_laws_akopf
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/absorption_laws_akopf
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-Linux/package
-CND_PACKAGE_NAME_Debug=xorequivalenceakopf.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/xorequivalenceakopf.tar
+CND_PACKAGE_NAME_Debug=absorptionlawsakopf.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/absorptionlawsakopf.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-Linux
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-Linux
-CND_ARTIFACT_NAME_Release=xor_equivalenceakopf
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/xor_equivalenceakopf
+CND_ARTIFACT_NAME_Release=absorption_laws_akopf
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/absorption_laws_akopf
 CND_PACKAGE_DIR_Release=dist/Release/GNU-Linux/package
-CND_PACKAGE_NAME_Release=xorequivalenceakopf.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/xorequivalenceakopf.tar
+CND_PACKAGE_NAME_Release=absorptionlawsakopf.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/absorptionlawsakopf.tar
 #
 # include compiler specific variables
 #

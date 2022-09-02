@@ -13,8 +13,8 @@ CND_BUILDDIR=build
 CND_DLIB_EXT=so
 NBTMPDIR=${CND_BUILDDIR}/${CND_CONF}/${CND_PLATFORM}/tmp-packaging
 TMPDIRNAME=tmp-packaging
-OUTPUT_PATH=${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/xor_equivalence_akopf
-OUTPUT_BASENAME=xor_equivalence_akopf
+OUTPUT_PATH=${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/xor_equivalenceakopf
+OUTPUT_BASENAME=xor_equivalenceakopf
 PACKAGE_TOP_DIR=xorequivalenceakopf/
 
 # Functions

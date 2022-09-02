@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=XOR_EquivalenceAKopf
+PROJECTNAME=Absorption_Laws_AKopf
 
 # Active Configuration
 DEFAULTCONF=Debug
